@@ -8,7 +8,7 @@ A test project that compares qunit to jasmine while testing 3 order calculation 
 
 ![qunit](https://github.com/madeinouweland/javascript-qunit-vs-jasmine/blob/master/qunit.png)
 
-### Syntax example (
+#### Example
 
 ```
 assert.equal(calculateTotalPrice(orderItems), 18, "Total order price calculated correctly" );
@@ -20,7 +20,7 @@ assert.equal(calculateTotalPrice(orderItems), 18, "Total order price calculated 
 
 ![jasmine](https://github.com/madeinouweland/javascript-qunit-vs-jasmine/blob/master/jasmine.png)
 
-### Syntax example
+#### Example
 
 Jasmine uses a [behavior driven](https://en.wikipedia.org/wiki/Behavior-driven_development) syntax and the following code  is stored in a spec file. 
 
